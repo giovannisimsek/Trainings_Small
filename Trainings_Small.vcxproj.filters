@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Templates - Learning Lad">
+      <UniqueIdentifier>{b7a3e4ff-1a7b-4b5d-ab35-e0370262d525}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lambda Training">
+      <UniqueIdentifier>{f9037bbd-8a6e-44b6-8160-faa25b9ecf1e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3. Explicit Specialization of Class Templates-vid.136.cpp">
+      <Filter>Templates - Learning Lad</Filter>
+    </ClCompile>
+    <ClCompile Include="1. Function Templates - Specializations -vid.131.cpp">
+      <Filter>Templates - Learning Lad</Filter>
+    </ClCompile>
+    <ClCompile Include="2. Function Templates - Overloading-vid.132.cpp">
+      <Filter>Templates - Learning Lad</Filter>
+    </ClCompile>
+    <ClCompile Include="lambda_training.cpp">
+      <Filter>Lambda Training</Filter>
+    </ClCompile>
+    <ClCompile Include="135. Default Parameter Types.cpp">
+      <Filter>Templates - Learning Lad</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
